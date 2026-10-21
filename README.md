@@ -6,6 +6,12 @@ PulseOps is a Windows desktop application that brings printer status, consumable
 
 It helps technicians identify devices that need attention and organize consumable requests with less manual checking.
 
+## Dashboard Preview
+
+![PulseOps dashboard showing fleet health and consumable monitoring](dashboard-demo.png)
+
+*Dashboard running in demonstration mode with fictional printer data.*
+
 ## Why PulseOps?
 
 Checking printers individually takes time. PulseOps provides a consolidated view of device health and supplies, helping turn routine checks into actionable information.
